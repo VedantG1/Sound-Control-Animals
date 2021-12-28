@@ -1,0 +1,35 @@
+body{
+    background: yellow;
+    font-family: 'Akaya Telivigala', cursive;
+}
+.header_div{
+    background: orange;
+    color: white;
+}
+.header_div p{
+    font-size: 12px;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+    letter-spacing: 2px;
+}
+.main_div button{
+    margin-top: 30px;
+    font-family: 'Roboto', sans-serif;
+    letter-spacing: 3px;
+    font-weight: bolder;
+    width: 130px;
+}
+.footer{
+    color: white;
+    font-size: 18px;
+    text-align: center;
+    width: 100%;
+    position: fixed;
+    bottom: 0px;
+    background-color: red;
+    line-height: 3;
+    text-shadow: 5px 5px 5px rgb(151,149,149);
+}
+h4{
+    font-size: 25px;
+}
